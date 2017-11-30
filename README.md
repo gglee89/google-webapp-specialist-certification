@@ -5,15 +5,15 @@ This is the study path for my certification.
 	- Basic Website Layout and Styling
 	- Front End Networking
 	- Accessibility
-	 ● Progressive Web Apps
-	 ● Performance Optimization and Caching
-	 ● Testing and Debugging
-	 ● ES2015 Concepts and Syntax
-	 ● Mobile Web Forms
+	- Progressive Web Apps
+	- Performance Optimization and Caching
+	- Testing and Debugging
+	- ES2015 Concepts and Syntax
+	- Mobile Web Forms
 
 - Basic Website Layout and Styling
-	(1) https://developers.google.com/web/fundamentals/design-and-ui/responsive/
-	(2) https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+	1. https://developers.google.com/web/fundamentals/design-and-ui/responsive/
+	2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 	(3) https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 	(4) https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content
 	(5) https://www.udacity.com/course/responsive-images--ud882
