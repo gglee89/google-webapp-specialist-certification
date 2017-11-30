@@ -1,5 +1,6 @@
 # google-webapp-specialist-certification
 This is the study path for my certification.
+Based on the official documentation: (https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide_MobileWebSpecialist.pdf)[https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide_MobileWebSpecialist.pdf]
 
 - Contents
 	- Basic Website Layout and Styling
