@@ -2,9 +2,9 @@
 This is the study path for my certification.
 
 - Contents
-	 ● Basic Website Layout and Styling
-	 ● Front End Networking
-	 ● Accessibility
+	- Basic Website Layout and Styling
+	- Front End Networking
+	- Accessibility
 	 ● Progressive Web Apps
 	 ● Performance Optimization and Caching
 	 ● Testing and Debugging
